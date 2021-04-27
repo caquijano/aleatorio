@@ -2,9 +2,9 @@ import React, { ChangeEvent, useEffect, useState } from "react";
 
 function Cuerpo() {
   const initialState = {
-    semilla: 0,
-    constante: 0,
-    cantidad: 0,
+    semilla: "",
+    constante: "",
+    cantidad: "",
     ramdon: 0,
     resultado: 0,
   };
