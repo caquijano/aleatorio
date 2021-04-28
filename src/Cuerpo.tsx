@@ -114,7 +114,7 @@ function Cuerpo() {
         <div className="form-group row col-lg-1"></div>
         <div className="form-group row col-lg-3">
           <label className="col-form-label" htmlFor="inputDefault">
-            Cantidad pseudoaleatorios
+            r<sub>i</sub> deseados
           </label>
           <input
           value={aleatorio.cantidad}
